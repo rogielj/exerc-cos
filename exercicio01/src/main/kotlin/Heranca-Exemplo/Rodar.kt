@@ -4,5 +4,5 @@ fun main() {
     var cachorro = Cachorro()
     cachorro.cor = "Azul"
 
-    cachorro.correr()
+    cachorro.atributos()
 }
